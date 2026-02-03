@@ -23,6 +23,8 @@ This project analyzes over 500,000 online retail transactions to uncover sales t
 ## Forecasting
 A seasonal exponential smoothing model was used to forecast monthly revenue, capturing trend and yearly seasonality. Forecasts suggest continued late-year peaks and early-year slowdowns.
 
+Forecasts are directional due to limited historical depth; future work includes multi-year seasonal modeling and product-level demand forecasting.
+
 ## Files
 - `Online_Retail_Analysis.ipynb`: Full analysis and forecasting workflow
 - Dataset source: https://www.kaggle.com/datasets/vijayuv/onlineretail
