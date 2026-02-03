@@ -1,5 +1,7 @@
 # Online Retail Sales Analysis & Forecasting (UK)
 
+![UK shopping](https://github.com/user-attachments/assets/8cb2e99b-9dd8-4b7a-94d6-f14c1793b9bf)
+
 ## Overview
 This project analyzes over 500,000 online retail transactions to uncover sales trends, customer purchasing behavior, and top-performing products in the United Kingdom market. The analysis concludes with a time-series forecasting model to estimate future monthly revenue.
 
